@@ -492,9 +492,7 @@
       "discord": "https://discord.gg/RYSzYGMMqT",
       "twitter": "https://twitter.com/NexusOracles"
     }
-  }
-}
-
+  },
 "cantozoo": {
     "id":"cantozoo",
     "name": "Canto ZOO",
@@ -504,7 +502,7 @@
     "website": "https://cantozoo.xyz",
     "socials": {
       "twitter": "https://twitter.com/CantoZoo",
-"discord": "https://discord.gg/ppz3wSupem" ,
+      "discord": "https://discord.gg/ppz3wSupem" 
+     }    
     }
-    
-  },
+  }
