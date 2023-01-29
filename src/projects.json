@@ -100,7 +100,7 @@
     "tags": ["coh_c1s2"],
     "categories": ["NFT", "Hackathon Projects"],
     "logo": "cantillionaires.jpg",
-    "website": "https://www.cantillionaires.com/",
+    "website": "https://www.cantillionaires.com",
     "socials": {
       "twitter": "https://twitter.com/Cantillionaires"
     }
@@ -192,7 +192,7 @@
     "description": "A collective of 3333 most unique and kewl crabs.",
     "categories": ["NFT", "Hackathon Projects"],
     "logo": "cantocrabs.jpg",
-    "website": "https://cantocrabs.com/",
+    "website": "https://cantocrabs.com",
     "socials": {
       "twitter": "https://twitter.com/CantoCrabs"
     }
@@ -353,7 +353,7 @@
     "description": "Non-custodial wallet",
     "categories": ["Infrastructure", "Wallets"],
     "logo": "metamask.png",
-    "website": "https://metamask.io/",
+    "website": "https://metamask.io",
     "socials": {
       "twitter": "https://twitter.com/MetaMask"
     }
@@ -364,7 +364,7 @@
     "description": "Non-custodial wallet",
     "categories": ["Infrastructure", "Wallets"],
     "logo": "keplr.png",
-    "website": "https://www.keplr.app/",
+    "website": "https://www.keplr.app",
     "socials": {
       "twitter": "https://twitter.com/keplrwallet"
     }
@@ -386,7 +386,7 @@
     "description": "Contributor and Validator",
     "categories": ["Contributors"],
     "logo": "bharvest.jpg",
-    "website": "https://bharvest.io/",
+    "website": "https://bharvest.io",
     "socials": {
       "twitter": "https://twitter.com/b__harvest"
     }
@@ -418,7 +418,7 @@
     "description": "Bridge",
     "categories": ["Bridges"],
     "logo": "gravitybridge.jpg",
-    "website": "https://www.gravitybridge.net/",
+    "website": "https://www.gravitybridge.net",
     "socials": {
       "twitter": "https://twitter.com/gravity_bridge"
     }
@@ -440,7 +440,7 @@
     "description": "Non-custodial wallet",
     "categories": ["Wallets"],
     "logo": "leapwallet.jpg",
-    "website": "https://www.leapwallet.io/",
+    "website": "https://www.leapwallet.io",
     "socials": {
       "twitter": "https://twitter.com/leap_wallet"
     }
