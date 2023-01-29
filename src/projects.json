@@ -492,5 +492,17 @@
       "discord": "https://discord.gg/RYSzYGMMqT",
       "twitter": "https://twitter.com/NexusOracles"
     }
+  },
+"cantozoo": {
+    "id":"cantozoo",
+    "name": "Canto ZOO",
+    "description": "Mystical Magic Animals living on Canto blockchain",
+    "categories": ["NFT", "Games"],
+    "logo": "cantozoo.png",
+    "website": "https://cantozoo.xyz",
+    "socials": {
+      "twitter": "https://twitter.com/CantoZoo",
+      "discord": "https://discord.gg/ppz3wSupem" 
+     }    
+    }
   }
-}
