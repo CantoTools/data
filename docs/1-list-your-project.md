@@ -7,16 +7,17 @@
 Modify `src/projects.json`, and add your project. Make sure it adhere to the following interface:
 
 ```typescript
-interface Project {
-    id: string
-    name: string
-    description: string
-    category: string
-    logo?: string|null
-    website?: string|null
+interface Cantobots {
+    id: "CantoBots",
+    name: "CantoBots",
+    tags: ["coh_c1s5"],
+    description: "DeX Built upon NFTs",
+    category: ["NFT","DeFi"],
+    logo?: "cantobot.jpg",
+    website?:"null",
     socials?: {
-        twitter?: string
-        discord?: string
+        twitter?:"https://github.com/CantoTools/data.wiki.git",
+        discord?:"https://discord.gg/CPUnZcrhey"
     }
     duneQueryEmbeds?: string[]
 }
