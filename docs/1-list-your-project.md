@@ -13,7 +13,7 @@ interface Cantobots {
     tags: ["coh_c1s5"],
     description: "DeX Built upon NFTs",
     category: ["NFT","DeFi"],
-    logo?: "cantobot.jpg",
+    logo?: "ccantobots.png",
     website?:"null",
     socials?: {
         twitter?:"https://github.com/CantoTools/data.wiki.git",
