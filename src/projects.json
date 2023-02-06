@@ -477,9 +477,9 @@
     "logo": "ApeAI.png",
     "website": "https://apeai.world",
     "socials": {
-      "discord": "https://discord.gg/CZEU7gqtj3"
+      "discord": "https://discord.gg/CZEU7gqtj3",
       "twitter": "https://twitter.com/cantoape_ai"
-    }
+    },
   "shnoises": {
     "id": "shnoises",
     "name": "Shnoises",
