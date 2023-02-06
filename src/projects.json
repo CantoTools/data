@@ -469,6 +469,17 @@
       "discord": "https://discord.gg/revoke-cash"
     }
   },
+  "ApeAI": {
+    "id": "apeai",
+    "name": "ApeAI",
+    "description": "The 1st Canto Meme token created with ai-implementation",
+    "categories": ["DeFi", "NFT", "Meme token"],
+    "logo": "ApeAI.png",
+    "website": "https://apeai.world",
+    "socials": {
+      "discord": "https://discord.gg/CZEU7gqtj3"
+      "twitter": "https://twitter.com/cantoape_ai"
+    }
   "shnoises": {
     "id": "shnoises",
     "name": "Shnoises",
