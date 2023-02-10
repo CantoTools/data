@@ -472,9 +472,9 @@
   "ApeAI": {
     "id": "apeai",
     "name": "ApeAI",
-    "description": "The 1st Canto Meme token created with ai-implementation",
-    "categories": ["DeFi", "NFT", "Meme token"],
-    "logo": "ApeAI.png",
+    "description": "The 1st Canto memecoin used to combine ai with blockchain",
+    "categories": ["DeFi", "NFT", "memecoin"],
+    "logo": "cantoape_ai.png",
     "website": "https://apeai.world",
     "socials": {
       "discord": "https://discord.gg/CZEU7gqtj3",
