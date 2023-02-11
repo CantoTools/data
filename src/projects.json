@@ -492,5 +492,16 @@
       "discord": "https://discord.gg/RYSzYGMMqT",
       "twitter": "https://twitter.com/NexusOracles"
     }
+  },
+    "cantoplebs": {
+    "id": "cantoplebs",
+    "name": "CantoPlebs",
+    "description": "8910 Plebs living on Canto. 100% Onchain.",
+    "categories": ["NFT"],
+    "logo": "plebs.jpg",
+    "website": "https://www.plebs.surge.sh.com",
+    "socials": {
+      "twitter": "https://twitter.com/CantoPlebs"
+    }
   }
 }
