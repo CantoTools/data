@@ -492,5 +492,16 @@
       "discord": "https://discord.gg/RYSzYGMMqT",
       "twitter": "https://twitter.com/NexusOracles"
     }
+  },
+  "cantoinu": {
+    "id": "Cato",
+    "name": "Cato",
+    "description": "The first Canto Dog Coin powered by AI",
+    "categories": ["Meme coin"],
+    "logo": "cato.png",
+    "website": "https://www.catocanto.xyz",
+    "socials": {
+      "twitter": "https://twitter.com/cato_canto"
+    }
   }
 }
