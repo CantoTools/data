@@ -492,5 +492,17 @@
       "discord": "https://discord.gg/RYSzYGMMqT",
       "twitter": "https://twitter.com/NexusOracles"
     }
+  },
+  "cantocuties": {
+    "id": "cantocuties",
+    "name": "Canto Cuties",
+    "description": "The cute inhabitants of Cantoverse",
+    "categories": ["NFT"],
+    "logo": "cantocuties.png",
+    "website": "https://cantocuties.netlify.app",
+    "socials": {
+      "discord": "https://discord.com/invite/GM4aV3DRUR",
+      "twitter": "https://twitter.com/canto_cuties"
+    }
   }
 }
