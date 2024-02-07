@@ -498,7 +498,7 @@
     "name": "Supra Oracles",
     "description": "Supra as an “IntraLayer” is a powerful middleware network that brings our solutions together - oracles, VRFs, and a native cross-chain protocol through singular shared-security infrastructure.",
     "categories": ["Oracles"],
-    "logo": "https://drive.google.com/file/d/1w-y3wOoWUz27p7OlH4n4G7DMesE4IdRk/view",
+    "logo": "supra.png",
     "website": "https://supra.com",
     "socials": {
       "discord": "https://discord.com/invite/supraoracles",
