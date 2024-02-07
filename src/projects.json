@@ -1,6 +1,6 @@
 {
   "altomarket": {
-    "id":"altomarket",
+    "id": "altomarket",
     "name": "Alto Market",
     "description": "Free Public NFT Market Infrastructure",
     "categories": ["NFT", "Infrastructure"],
@@ -197,7 +197,7 @@
       "twitter": "https://twitter.com/CantoCrabs"
     }
   },
-  "deadends" : {
+  "deadends": {
     "id": "deadends",
     "name": "DeadEnds",
     "description": "Interactive NFT art",
@@ -491,6 +491,18 @@
     "socials": {
       "discord": "https://discord.gg/RYSzYGMMqT",
       "twitter": "https://twitter.com/NexusOracles"
+    }
+  },
+  "Supra": {
+    "id": "Supra",
+    "name": "Supra Oracles",
+    "description": "Supra as an “IntraLayer” is a powerful middleware network that brings our solutions together - oracles, VRFs, and a native cross-chain protocol through singular shared-security infrastructure.",
+    "categories": ["Oracles"],
+    "logo": "supra.png",
+    "website": "https://supra.com",
+    "socials": {
+      "discord": "https://discord.com/invite/supraoracles",
+      "twitter": "https://twitter.com/SupraOracles"
     }
   }
 }
